@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[BBackend for Modair Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Saif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
